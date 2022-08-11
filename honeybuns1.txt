@@ -6,4 +6,5 @@ This is a test git file for cohort8. The expectation is that at the end of this 
 4. Push a code from the local repository to the remote repo
 Adding a line of text from bugfix master
 we are adding this line from the CLI after our first git push/pull
-Just to ascertain that we can try to pull directly from remote repo
+Just to ascertain that we can try to pull directly from remote repository
+If it will work eventually
