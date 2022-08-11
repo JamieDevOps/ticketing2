@@ -7,3 +7,4 @@ eahhhh I am learning better and my confidence level is growing as such. I am gra
 We are adding a new line to this file
 
 Git is an interesting course to learn
+showing how the head changes
