@@ -11,3 +11,4 @@ showing how the head changes
 Adding a line of text from bugfix master
 
 This is to show how bugfix add contents over master branch
+We are adding this new line from the GUI
